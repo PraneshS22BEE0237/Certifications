@@ -76,7 +76,7 @@
 **Microcontroller I/O:**
 - Digital Input Pins: 2 (for IR sensors)
 - Digital Output Pins: 1 (for status LED)
-- Communication: WiFi (ESP32/ESP8266) or Serial (Arduino UNO)
+- Communication: WiFi (ESP32/ESP8266) or Serial (Arduino UNO).
 
 ---
 
