@@ -331,7 +331,7 @@ Input Sensors → Processing Logic → Output Actions → External Communication
 ## Key System Features:
 
 ### **Hardware Features:**
-- **Dual Sensor Redundancy**: Eliminates false positives
+- **Dual Sensor Redundancy**: Eliminates false positive
 - **Low Power Design**: <500mA total consumption
 - **Modular Architecture**: Easy to scale for multiple slots
 - **Weather Resistant**: Suitable for outdoor parking areas
