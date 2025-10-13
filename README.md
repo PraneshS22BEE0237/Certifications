@@ -344,7 +344,7 @@ Input Sensors → Processing Logic → Output Actions → External Communication
 
 ### **System Features:**
 - **High Accuracy**: Dual sensor AND logic
-- **Scalable Design**: Support for multiple parking areas
+- **Scalable Design**: Support for multiple parking areas.
 - **Web Integration**: Direct HTML app communication
 - **Remote Monitoring**: WiFi-enabled real-time updates
 
